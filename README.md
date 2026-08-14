@@ -17,9 +17,3 @@ Over the past decade I've built marketing teams from the ground up and helped sc
 ### 🧰 Skills
 
 `Product Marketing` · `Messaging & Positioning` · `Customer Insights` · `Sales Enablement` · `Demand Generation` · `Narrative & Storytelling` · `Competitive Intelligence` · `Product Launches` · `Lifecycle Marketing` · `Revenue Operations` · `Cross-Functional Leadership`
-
----
-
-### 📫 How to reach me
-
-- 💼 [LinkedIn](https://linkedin.com/in/reidfredrickson/)
