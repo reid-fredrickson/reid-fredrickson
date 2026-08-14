@@ -23,4 +23,3 @@ Over the past decade I've built marketing teams from the ground up and helped sc
 ### 📫 How to reach me
 
 - 💼 [LinkedIn](https://linkedin.com/in/reidfredrickson/)
-- 📍 Kirkland, WA
