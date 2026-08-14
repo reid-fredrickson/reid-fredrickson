@@ -1,16 +1,26 @@
-## Hi there 👋
+## Hi there 👋 I'm Reid
 
-<!--
-**reid-fredrickson/reid-fredrickson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Product Marketing & GTM leader** — I help B2B SaaS startups turn technical capabilities and customer insight into positioning, launches, and pipeline that actually move revenue.
 
-Here are some ideas to get you started:
+Over the past decade I've built marketing teams from the ground up and helped scale a startup from early growth through enterprise expansion — owning GTM strategy, messaging & positioning, demand generation, and sales enablement along the way. My thing is translating win/loss analysis, user interviews, and product-usage data into narratives that sharpen positioning, inform the roadmap, and drive adoption.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+- 🚀 **What I do:** GTM strategy · product marketing · messaging & positioning · sales enablement · demand generation · lifecycle & revenue operations
+- 🤖 **Currently into:** AI-driven marketing systems and where go-to-market meets automation
+- ⛳ **Off the clock:** avid golfer — always up for a round
+- 🔨 **Occasional builder:** I like tinkering and shipping small projects
+- 👀 **Open to new opportunities** — let's talk
+
+---
+
+### 🧰 Skills
+
+`Product Marketing` · `Messaging & Positioning` · `Customer Insights` · `Sales Enablement` · `Demand Generation` · `Narrative & Storytelling` · `Competitive Intelligence` · `Product Launches` · `Lifecycle Marketing` · `Revenue Operations` · `Cross-Functional Leadership`
+
+---
+
+### 📫 How to reach me
+
+- 💼 [LinkedIn](https://linkedin.com/in/reidfredrickson/)
+- 📍 Kirkland, WA
