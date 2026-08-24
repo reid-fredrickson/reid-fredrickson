@@ -6,14 +6,17 @@ Over the past decade I've built marketing teams from the ground up and helped sc
 
 ---
 
-- 🚀 **What I do:** GTM strategy · product marketing · messaging & positioning · sales enablement · demand generation · lifecycle & revenue operations
-- 🤖 **Currently into:** AI-driven marketing systems and where go-to-market meets automation
-- ⛳ **Off the clock:** avid golfer — always up for a round
-- 🔨 **Occasional builder:** I like tinkering and shipping small projects
-- 👀 **Open to new opportunities** — let's talk
+🚀 **What I do:** GTM strategy · product marketing · messaging & positioning · sales enablement · demand generation · lifecycle & revenue operations
+
+🤖 **Currently into:** AI-driven marketing systems and where go-to-market meets automation
+
+⛳ **Off the clock:** avid golfer — always up for a round
+
+🔨 **Occasional builder:** I like tinkering and shipping small projects
+
+🔗 **Find me at:** [Website](https://www.reidfredrickson.com) · [Medium](https://medium.com/@reid.fredrickson/)
 
 ---
 
 ### 🧰 Skills
-
 `Product Marketing` · `Messaging & Positioning` · `Customer Insights` · `Sales Enablement` · `Demand Generation` · `Narrative & Storytelling` · `Competitive Intelligence` · `Product Launches` · `Lifecycle Marketing` · `Revenue Operations` · `Cross-Functional Leadership`
