@@ -14,7 +14,7 @@ Over the past decade I've built marketing teams from the ground up and helped sc
 
 🔨 **Occasional builder:** I like tinkering and shipping small projects
 
-🔗 **Find me at:** [Website](https://www.reidfredrickson.com) · [Medium](https://medium.com/@reid.fredrickson/)
+🔗 **Find me at:** [Website](https://www.reidfredrickson.com)
 
 ---
 
